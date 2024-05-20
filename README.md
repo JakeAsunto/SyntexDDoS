@@ -5,6 +5,14 @@
 
 > <img src="What_It_Looks_Like.jpg" alt="Coding Image in Replit">Single Readline Method in Replit. (May 21, 2024) 6AM GMT +8</img>
 
+> ## Install Dependencies
+- Dependencies: crypto, fs, fetch, axios, figlet, chalk@4.1.2
+  
+* `crypto, fs & node-fetch are built-in APIs in Node.js`
+```bash
+npm install --save axios figlet chalk@4.1.2
+```
+
 - ### How to Use?
 > **Type the following command in your shell:**
 ```bash
