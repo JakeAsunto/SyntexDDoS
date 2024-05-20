@@ -1,0 +1,23 @@
+{
+  "name": "SyntexDDoS",
+  "version": "1.1.1",
+  "description": "DDoS Script written by Jake Asunto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node singleRL.js",
+    "single": "node single.js",
+    "cluster": "node cluster.js",
+    "clusterRL": "node clusterRL.js",
+    "singleRL": "node singleRL.js"
+  },
+  "keywords": [ "2024", "ddos", "ddos-attack", "ddos-attack-tool", "pentesting", "cybersecurity", "ddos-script" ],
+  "author": "Jake Asunto",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "1.7.1",
+    "chalk": "4.1.2",
+    "figlet": "1.7.0",
+    "readline-sync": "1.4.10"
+  }
+}
